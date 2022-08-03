@@ -1,0 +1,59 @@
+La internet nació hace muchos años, pero era muy distinta a lo que concebimos hoy como web. La evolución en este campo ha sido constante, impresionante y nos ha traído hasta lo que hoy conocemos como Web3.
+
+Historia de la web
+Es importante hacer un repaso rápido sobre la historia de la web, para entender cómo llegamos a este momento de la historia.
+
+1993
+En este año se crea la World Wide Web. Debido a que las tecnologías de conexión y los navegadores no eran muy potentes, esta primera versión de la web era más que todo informativa y unidireccional.
+
+1995
+Brendan Eich crea la primera versión de JavaScript. Es así como la web evoluciona del simple texto, imágenes y enlaces, y se convierte en un mundo de más interactividad.
+
+1995 - 2001
+Se da una fuerte competencia entre los navegadores Netscape e Internet Explorer (de Microsoft), formando una web cada vez más interactiva.
+
+2005
+Se acuña el término AJAX Asynchronous JavaScript And XML (JavaScript asíncrono y XML). AJAX revolucionó el intercambio de datos del navegador con el servidor, permitiendo interacción sin necesidad de recargar toda la página.
+
+Fue así como hubo un cambio en toda la web y un crecimiento exponencial de páginas web con comportamientos nunca antes vistos.
+
+Funcionalidades después de 2005
+AJAX permitió el desarrollo de interfaces enriquecidas y produjo un cambio en la interacción.
+
+Las nuevas funcionalidades llevaron a que la web se convirtiera en una plataforma interactiva que permite a los usuarios:
+
+Crear contenido
+Leer
+Escribir información
+Retroalimentar a la plataforma
+Comerciar
+Hacer crecer sus negocios y marcas personales
+Web2
+Con las nuevas tecnologías y formas de interacción, las páginas web empezaron a traer más usuarios y llegó al mundo la Web2. Gracias a eso hubo un crecimiento exponencial para grandes compañías. Por ejemplo:
+
+Amazon
+Inició como una tienda de libros y llegó a ser a la plataforma de comercio electrónico más poderosa.
+
+YouTube
+Pasó de tener simples videos a tener influencers que ganan miles de millones de dólares al impactar la vida de personas en todo el mundo.
+
+Facebook
+Era una plataforma para tener un perfil universitario y ver fotografías y se convirtió en todo un ecosistema de información, noticias y comercio.
+
+Inconvenientes de la Web 2
+A pesar de que la interactividad y globalización permitió que muchas personas tuvieran oportunidades de surgir y crear negocios en internet, existen algunos problemas con la Web2, por ejemplo:
+
+El poder está concentrado en pocas manos
+Las corporaciones, dueñas de las plataformas, las rentan a los usuarios, pero los usuarios realmente no tienen voto en la toma de decisiones o las reglas del juego de aquello que usan todos los días.
+
+Las compañías toman ventaja de los datos de los usuarios
+Todo el tiempo las personas están generando una infinita cantidad de datos y compartiéndola en la web. Al hacer esto, las compañías toman esta información valiosa y pueden analizar el comportamiento de consumo, las tendencias políticas, etc. Esto se traduce en problemas de:
+
+Privacidad
+Manipulación
+Inseguridad
+Cuéntanos en los comentarios qué otros problemas ves actualmente en la Web2.
+
+Y si quieres ver un ejemplo de un problema que se puede solucionar con la Web3, revisa la clase de Descentralización.
+
+Contribución creada con aportes de: Juan Pablo Solano Rodríguez y Zea Cuervo.
